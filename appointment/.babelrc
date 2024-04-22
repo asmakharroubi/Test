@@ -1,0 +1,17 @@
+
+{
+    "presets": ["next/babel","@babel/preset-env", "@babel/preset-react"],
+    "plugins": ["@babel/plugin-transform-class-properties"]
+  }
+
+
+// {
+//     "presets": ["next/babel"]
+// }
+//   {
+//     "presets": ["@babel/preset-env", "@babel/preset-react"],
+//     "plugins": ["@babel/plugin-transform-class-properties"]
+//   }
+
+
+  
